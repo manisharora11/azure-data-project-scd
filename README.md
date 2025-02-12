@@ -4,7 +4,7 @@
 This project is a comprehensive **Azure Data Engineering** pipeline designed to handle real-world scenarios. It demonstrates **incremental data loading**, **dimensional data modeling (Star Schema)**, **slowly changing dimensions (SCDs)**, and follows the **Medallion Architecture** to ensure data quality and governance.
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](DataModel.png)
+![Architecture Diagram](PipelinePreview.png)
 
 ## 🎯 Key Features
 - **Azure Data Engineering Stack**: Utilizes **Azure Data Lake, Azure SQL Database, Azure Data Factory, Azure Databricks**, and **Unity Catalog**.
