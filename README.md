@@ -1,3 +1,4 @@
 # azure-data-project-scd
 
-![image](Users/manish/Desktop/DataModel.png)
+![image](DataModel.png)
+![image](PilelinePreview.png)
