@@ -1,0 +1,9 @@
+{
+	"name": "adf-cars-manisharora",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f6580a4-6dad-4937-8a9b-8b4983017ae8",
+		"tenantId": "a90019fb-f92e-432a-bcd4-9706c86d2029"
+	}
+}
