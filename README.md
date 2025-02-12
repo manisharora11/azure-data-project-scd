@@ -66,7 +66,7 @@ This project is a comprehensive **Azure Data Engineering** pipeline designed to 
    - Establish a connection to **Gold Layer** for visualization.
 
 ---
-
+![DataModel](DataModel.png)
 ## 📊 Medallion Architecture
 ```
    ┌──────────┐
@@ -115,7 +115,6 @@ This project is a comprehensive **Azure Data Engineering** pipeline designed to 
 6. Connect Power BI to the **Gold Layer**.
 
 ---
-![DataModel](DataModel.png)
 ## 📌 Key Learnings
 ✔ Understanding **Azure Data Engineering** stack  
 ✔ Implementing **incremental data loading** & **CDC**  
