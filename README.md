@@ -34,7 +34,6 @@ This project is a comprehensive **Azure Data Engineering** pipeline designed to 
 5. **Data Serving**: Processed data is stored in **Gold Layer** and connected to **Power BI**.
 
 ---
-![DataModel](DataModel.png)
 
 ## 🚀 Implementation Steps
 1. **Setup Azure Services**
@@ -116,7 +115,7 @@ This project is a comprehensive **Azure Data Engineering** pipeline designed to 
 6. Connect Power BI to the **Gold Layer**.
 
 ---
-
+![DataModel](DataModel.png)
 ## 📌 Key Learnings
 ✔ Understanding **Azure Data Engineering** stack  
 ✔ Implementing **incremental data loading** & **CDC**  
